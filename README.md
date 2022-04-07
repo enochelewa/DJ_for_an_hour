@@ -1,1 +1,2 @@
 # DJ_for_an_hour
+Developed a program that produces a randomized set of songs from a longer list of input with specific the specific constraints. An artiste cannot have more than two songs in a row, an artiste cannot have more than three songs in total in the playlist; A song cannot appear twice in the playlist and finally The total playlist length should be as close as possible to one hour. Specifically, the last song must start on or before 59:59. This was an individual project implemented in C programming
